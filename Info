@@ -1,0 +1,23 @@
+ABSTRACT
+
+This project presents an automatic irrigation control system. This system provides   uniform and required level of water to the plants. It contains an electric motor for water regulation.If soil will get dry then sensor senses low moisture level and automatically switches on the water pump to supply water to the plant. As plant get sufficient water and soil get wet then sensor senses enough moisture in soil. After which the water pump will automatically get stopped.
+
+EXACT PROBLEM
+
+The major problem in irrigation is that sometimes the crops are watered more than they need or sometimes less than the need.This resuls in decrease in productivity of the crops.So to overcome this problem this automatic irrigation system waters the crops on the basis of moisture in the soil as well as if it is raining or not.So in this system manual interaction is minimized and so the occurence of error is minimalized too.
+
+MARKET POTENTIAL
+
+This smart irrigation system have the potential to save time, water, and money by automatically adjusting the amount of water applied to the soil.The system is made up of the components which are in cheap price and long-lasting so that farmers can buy it easily.In comparison to the traditional methods used for irrigation system which all are separate form such as manually ON/OFF the water pump,checking the water level at every part of land. So,this system performs all the tasks in  single system
+
+CONVERT TO PRODUCT/SOLUTION
+
+This project is presently a prototype.This can be converted to project by implementing it on a large scale.The design have to be changed a bit as we need to apply multiple moisture sensors as well as a heavy duty motor and a solar panels for constant electric supply.There will also be need to make changes in the source code.This can be implemented by dividing the farm into various sections so if some if some section is dry and others are wet so the watering is done to that precise section.
+
+POTENTIAL IMPACT 
+
+There are many potential impact of this project on agriculture as well as on human welfare.The main impact of this system is that it saves water as farmers are facing water crisis. It also helps during draught situation as it only releases the amount of water needed to moisten the soil and no extra water is released preventing wastage. Also it prevents soil erosion occurring due to exceess water.It also improves plant growth as well as preserves and increases soil nutrients.It also saves time and human error as there is minimum interaction of humans.
+
+BACKGROUND OF INNOVATION
+
+The idea to design this project came from the way there is lack of use of technology in the field of agriculture.Also it was seen that when irrigation was done without the ues of automation,there were a lot of problems incuding excess watering to plants, wastage of water, damage to the crops as well as decrease in productivity.It was seen in many farms that due to human error the pump was not switched off on time and damaged the crops. Thus automation in this field was required  to resolve these human errors and thus we innovated this system.
